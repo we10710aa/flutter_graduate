@@ -1,7 +1,7 @@
 {
     "name": "fish data",
     "format": "JSON",
-    "data": [
+    "fishs": [
         {
             "family": "sparidae",
             "genus": "acanthopagrus",

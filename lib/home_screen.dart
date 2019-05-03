@@ -16,7 +16,8 @@ class _HomeScreenState extends State<MyHomeScreen>{
   File _imageFile;
   int _currentPage=1;
   static final int FISH_DATA=0;
-  static final int WHAT_THE_FISH=0;
+  static final int WHAT_THE_FISH=1;
+  static final int HISTORY=2;
 
   Future pickImage() async{
     File image = await ImagePicker.pickImage(source: ImageSource.gallery);
@@ -40,10 +41,18 @@ class _HomeScreenState extends State<MyHomeScreen>{
   Widget build(BuildContext context) {
     Widget _body;
     if(_currentPage == FISH_DATA){
-      _body = FishCollection();
+      _body = FishCollectionWidget();
     }
-    else{
-      _body = Center(child: Text('hello'),);
+    else if(_currentPage == WHAT_THE_FISH){
+      _body = Center(
+        child: RaisedButton(
+          onPressed: pickImage,
+          child: _imageFile==null?Text('start'):Image.file(_imageFile),
+        ),
+      );
+    }
+    else if(_currentPage ==HISTORY){
+      _body= Center(child: Text('nana'),);
     }
     return Scaffold(
       appBar: AppBar(title: Text('cropper'),),
@@ -53,11 +62,15 @@ class _HomeScreenState extends State<MyHomeScreen>{
         items: [
           BottomNavigationBarItem(
             icon: Icon(Icons.book),
-            title: Text('history')
+            title: Text('Collection')
           ),
           BottomNavigationBarItem(
             icon:Icon(Icons.search),
-            title: Text('recog')
+            title: Text('Play')
+          ),
+          BottomNavigationBarItem(
+            icon: Icon(Icons.bookmark),
+            title: Text('history')
           )
         ],
         onTap: _changePage,
