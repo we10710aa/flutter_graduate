@@ -8,7 +8,8 @@
             "spcific": "schlegelii",
             "name": "Acanthopagrus schlegelii",
             "id": "382635",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a715-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a715-10.jpg",
+            "chineseName": "黑棘鯛"
         },
         {
             "family": "sparidae",
@@ -16,7 +17,8 @@
             "spcific": "latus",
             "name": "Acanthopagrus latus",
             "id": "382634",
-            "imgUrl": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0805696.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0805696.jpg",
+            "chineseName": "黃鰭棘鯛"
         },
         {
             "family": "sparidae",
@@ -24,7 +26,8 @@
             "spcific": "major",
             "name": "Pagrus major",
             "id": "382642",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a716-05.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a716-05.jpg",
+            "chineseName": "真鯛"
         },
         {
             "family": "serranidae",
@@ -32,7 +35,8 @@
             "spcific": "quoyanus",
             "name": "Epinephelus quoyanus",
             "id": "382554",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a685-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a685-03.jpg",
+            "chineseName": "玳瑁石斑魚"
         },
         {
             "family": "serranidae",
@@ -40,7 +44,8 @@
             "spcific": "lanceolatus",
             "name": "Epinephelus lanceolatus",
             "id": "382543",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F338_Eplan_u1.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F338_Eplan_u1.jpg",
+            "chineseName": "鞍帶石斑魚"
         },
         {
             "family": "serranidae",
@@ -48,7 +53,8 @@
             "spcific": "leopardus",
             "name": "Plectropomus leopardus",
             "id": "382589",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a686-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a686-03.jpg",
+            "chineseName": "花斑刺鰓鮨"
         },
         {
             "family": "serranidae",
@@ -56,7 +62,8 @@
             "spcific": "",
             "name": "Larimichthys crocea",
             "id": "382473",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a721-07.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a721-07.jpg",
+            "chineseName": "大黃魚"
         },
         {
             "family": "serranidae",
@@ -64,7 +71,8 @@
             "spcific": "",
             "name": "Larimichthys polyactis",
             "id": "382474",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ano.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ano.jpg",
+            "chineseName": "小黃魚"
         },
         {
             "family": "serranidae",
@@ -72,7 +80,8 @@
             "spcific": "miiuy",
             "name": "Miichthys miiuy",
             "id": "382475",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a721-09.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a721-09.jpg",
+            "chineseName": "鮸"
         },
         {
             "family": "moronidae",
@@ -80,7 +89,8 @@
             "spcific": "",
             "name": "Lateolabrax japonicus",
             "id": "382233",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a679-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a679-01.jpg",
+            "chineseName": "日本花鱸"
         },
         {
             "family": "mugilidae",
@@ -88,7 +98,8 @@
             "spcific": "",
             "name": "Mugil cephalus",
             "id": "381182",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a749-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a749-04.jpg",
+            "chineseName": "鯔"
         },
         {
             "family": "polynemidae",
@@ -96,7 +107,8 @@
             "spcific": "",
             "name": "Eleutheronema rhadinum",
             "id": "382273",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a750-07.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a750-07.jpg",
+            "chineseName": "多鱗四指馬鮁"
         },
         {
             "family": "polynemidae",
@@ -104,7 +116,8 @@
             "spcific": "",
             "name": "Eleutheronema tetradactylum",
             "id": "395540",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0065864.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0065864.jpg",
+            "chineseName": "四指馬鮁"
         },
         {
             "family": "polynemidae",
@@ -112,7 +125,8 @@
             "spcific": "",
             "name": "Filimanus sealei",
             "id": "395346",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/hansho18.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/hansho18.jpg",
+            "chineseName": "西氏絲指馬鮁"
         },
         {
             "family": "polynemidae",
@@ -120,7 +134,8 @@
             "spcific": "",
             "name": "Polydactylus microstomus",
             "id": "382275",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a750-09.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a750-09.jpg",
+            "chineseName": "小口多指馬鮁"
         },
         {
             "family": "polynemidae",
@@ -128,7 +143,8 @@
             "spcific": "",
             "name": "Polydactylus plebeius",
             "id": "382276",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a750-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a750-10.jpg",
+            "chineseName": "五絲多指馬鮁"
         },
         {
             "family": "polynemidae",
@@ -136,7 +152,8 @@
             "spcific": "",
             "name": "Polydactylus sexfilis",
             "id": "382277",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Jheng1461.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Jheng1461.jpg",
+            "chineseName": "六絲多指馬鮁"
         },
         {
             "family": "polynemidae",
@@ -144,7 +161,8 @@
             "spcific": "",
             "name": "Polydactylus sextarius",
             "id": "382278",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a751-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a751-01.jpg",
+            "chineseName": "六指多指馬鮁"
         },
         {
             "family": "nemipteridae",
@@ -152,7 +170,8 @@
             "spcific": "",
             "name": "Nemipterus aurora",
             "id": "382185",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a718-07.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a718-07.jpg",
+            "chineseName": "赤黃金線魚"
         },
         {
             "family": "nemipteridae",
@@ -160,7 +179,8 @@
             "spcific": "",
             "name": "Nemipterus bathybius",
             "id": "382186",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a718-08.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a718-08.jpg",
+            "chineseName": "底金線魚"
         },
         {
             "family": "nemipteridae",
@@ -168,7 +188,8 @@
             "spcific": "",
             "name": "Nemipterus furcosus",
             "id": "382187",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a718-09.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a718-09.jpg",
+            "chineseName": "紅金線魚"
         },
         {
             "family": "nemipteridae",
@@ -176,7 +197,8 @@
             "spcific": "",
             "name": "Nemipterus hexodon",
             "id": "382188",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a718-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a718-10.jpg",
+            "chineseName": "六齒金線魚"
         },
         {
             "family": "nemipteridae",
@@ -184,7 +206,8 @@
             "spcific": "",
             "name": "Nemipterus japonicus",
             "id": "382189",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a718-11.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a718-11.jpg",
+            "chineseName": "日本金線魚"
         },
         {
             "family": "nemipteridae",
@@ -192,7 +215,8 @@
             "spcific": "",
             "name": "Nemipterus peronii",
             "id": "382190",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a719-02.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a719-02.jpg",
+            "chineseName": "裴氏金線魚"
         },
         {
             "family": "nemipteridae",
@@ -200,7 +224,8 @@
             "spcific": "",
             "name": "Nemipterus thosaporni",
             "id": "382191",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a719-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a719-01.jpg",
+            "chineseName": "黃緣金線魚"
         },
         {
             "family": "nemipteridae",
@@ -208,7 +233,8 @@
             "spcific": "",
             "name": "Nemipterus virgatus",
             "id": "382192",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a719-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a719-03.jpg",
+            "chineseName": "金線魚"
         },
         {
             "family": "nemipteridae",
@@ -216,7 +242,8 @@
             "spcific": "",
             "name": "Nemipterus zysron",
             "id": "382193",
-            "imgUrl": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0076112.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0076112.jpg",
+            "chineseName": "姬金線魚"
         },
         {
             "family": "stromateidae",
@@ -224,7 +251,8 @@
             "spcific": "",
             "name": "Pampus argenteus",
             "id": "382652",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a800-05.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a800-05.jpg",
+            "chineseName": "銀鯧"
         },
         {
             "family": "stromateidae",
@@ -232,7 +260,8 @@
             "spcific": "",
             "name": "Pampus chinensis",
             "id": "382653",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a800-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a800-06.jpg",
+            "chineseName": "中國鯧"
         },
         {
             "family": "stromateidae",
@@ -240,7 +269,8 @@
             "spcific": "",
             "name": "Pampus cinereus",
             "id": "382654",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F483_Pacin_u0.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F483_Pacin_u0.jpg",
+            "chineseName": "灰鯧"
         },
         {
             "family": "stromateidae",
@@ -248,7 +278,8 @@
             "spcific": "",
             "name": "Pampus echinogaster",
             "id": "382655",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0800263.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0800263.jpg",
+            "chineseName": "鐮鯧"
         },
         {
             "family": "stromateidae",
@@ -256,7 +287,8 @@
             "spcific": "",
             "name": "Pampus liuorum",
             "id": "395566",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ano.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ano.jpg",
+            "chineseName": "劉氏鯧"
         },
         {
             "family": "stromateidae",
@@ -264,7 +296,8 @@
             "spcific": "",
             "name": "Pampus minor",
             "id": "395572",
-            "imgUrl": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0805699.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0805699.jpg",
+            "chineseName": "鏡鯧"
         },
         {
             "family": "stromateidae",
@@ -272,7 +305,8 @@
             "spcific": "",
             "name": "Pampus punctatissimus",
             "id": "395565",
-            "imgUrl": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0805699.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0805699.jpg",
+            "chineseName": "北鯧"
         },
         {
             "family": "centrolophidae",
@@ -280,7 +314,8 @@
             "spcific": "anomala",
             "name": "Psenopsis anomala",
             "id": "381560",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a800-07.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a800-07.jpg",
+            "chineseName": "刺鯧"
         },
         {
             "family": "rachycentridae",
@@ -288,7 +323,8 @@
             "spcific": "",
             "name": "Rachycentron canadum",
             "id": "382432",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a699-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a699-06.jpg",
+            "chineseName": "海鱺"
         },
         {
             "family": "scombridae",
@@ -296,7 +332,8 @@
             "spcific": "commerson",
             "name": "Scomberomorus commerson",
             "id": "382495",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a799-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a799-06.jpg",
+            "chineseName": "康氏馬加鰆"
         },
         {
             "family": "scombridae",
@@ -304,7 +341,8 @@
             "spcific": "",
             "name": "Scomber australasicus",
             "id": "382493",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a799-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a799-04.jpg",
+            "chineseName": "花腹鯖"
         },
         {
             "family": "scombridae",
@@ -312,7 +350,8 @@
             "spcific": "",
             "name": "Scomber japonicus",
             "id": "382494",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a799-05.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a799-05.jpg",
+            "chineseName": "白腹鯖"
         },
         {
             "family": "scombridae",
@@ -320,7 +359,8 @@
             "spcific": "",
             "name": "Thunnus alalunga",
             "id": "382500",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Thunnus-alalunga.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Thunnus-alalunga.jpg",
+            "chineseName": "長鰭鮪"
         },
         {
             "family": "scombridae",
@@ -328,7 +368,8 @@
             "spcific": "",
             "name": "Thunnus albacares",
             "id": "382501",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a799-09.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a799-09.jpg",
+            "chineseName": "黃鰭鮪"
         },
         {
             "family": "scombridae",
@@ -336,7 +377,8 @@
             "spcific": "",
             "name": "Thunnus obesus",
             "id": "382502",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Thunnus-obesus.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Thunnus-obesus.jpg",
+            "chineseName": "大目鮪"
         },
         {
             "family": "scombridae",
@@ -344,7 +386,8 @@
             "spcific": "",
             "name": "Thunnus orientalis",
             "id": "382503",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Thunnus-orientalis.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Thunnus-orientalis.jpg",
+            "chineseName": "太平洋黑鮪"
         },
         {
             "family": "scombridae",
@@ -352,7 +395,8 @@
             "spcific": "",
             "name": "Thunnus tonggol",
             "id": "382504",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Thunnus_tonggol.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Thunnus_tonggol.jpg",
+            "chineseName": "長腰鮪"
         },
         {
             "family": "scombridae",
@@ -360,7 +404,8 @@
             "spcific": "",
             "name": "Katsuwonus pelamis",
             "id": "382489",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a798-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a798-10.jpg",
+            "chineseName": "正鰹"
         },
         {
             "family": "siganidae",
@@ -368,7 +413,8 @@
             "spcific": "",
             "name": "Siganus argenteus",
             "id": "382612",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a796-09.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a796-09.jpg",
+            "chineseName": "銀臭肚魚"
         },
         {
             "family": "siganidae",
@@ -376,7 +422,8 @@
             "spcific": "",
             "name": "Siganus canaliculatus",
             "id": "382613",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-02.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-02.jpg",
+            "chineseName": "長鰭臭肚魚"
         },
         {
             "family": "siganidae",
@@ -384,7 +431,8 @@
             "spcific": "",
             "name": "Siganus fuscescens",
             "id": "382614",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a796-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a796-10.jpg",
+            "chineseName": "褐臭肚魚"
         },
         {
             "family": "siganidae",
@@ -392,7 +440,8 @@
             "spcific": "",
             "name": "Siganus guttatus",
             "id": "382615",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-04.jpg",
+            "chineseName": "星斑臭肚魚"
         },
         {
             "family": "siganidae",
@@ -400,7 +449,8 @@
             "spcific": "",
             "name": "Siganus javus",
             "id": "382616",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-05.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-05.jpg",
+            "chineseName": "爪哇臭肚魚"
         },
         {
             "family": "siganidae",
@@ -408,7 +458,8 @@
             "spcific": "",
             "name": "Siganus puellus",
             "id": "382617",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F467_Sipue_u4.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F467_Sipue_u4.jpg",
+            "chineseName": "眼帶臭肚魚"
         },
         {
             "family": "siganidae",
@@ -416,7 +467,8 @@
             "spcific": "",
             "name": "Siganus punctatissimus",
             "id": "382618",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F467_Sipun_u3.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F467_Sipun_u3.jpg",
+            "chineseName": "暗體臭肚魚"
         },
         {
             "family": "siganidae",
@@ -424,7 +476,8 @@
             "spcific": "",
             "name": "Siganus punctatus",
             "id": "382619",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-01.jpg",
+            "chineseName": "斑臭肚魚"
         },
         {
             "family": "siganidae",
@@ -432,7 +485,8 @@
             "spcific": "",
             "name": "Siganus spinus",
             "id": "382620",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-06.jpg",
+            "chineseName": "刺臭肚魚"
         },
         {
             "family": "siganidae",
@@ -440,7 +494,8 @@
             "spcific": "",
             "name": "Siganus unimaculatus",
             "id": "382621",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-08.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-08.jpg",
+            "chineseName": "單斑臭肚魚"
         },
         {
             "family": "siganidae",
@@ -448,7 +503,8 @@
             "spcific": "",
             "name": "Siganus vermiculatus",
             "id": "382622",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F467_Siver_u4.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F467_Siver_u4.jpg",
+            "chineseName": "蠕紋臭肚魚"
         },
         {
             "family": "siganidae",
@@ -456,7 +512,8 @@
             "spcific": "",
             "name": "Siganus virgatus",
             "id": "382623",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-07.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a797-07.jpg",
+            "chineseName": "藍帶臭肚魚"
         },
         {
             "family": "lutjanidae",
@@ -464,7 +521,8 @@
             "spcific": "",
             "name": "Lutjanus quinquelineatus",
             "id": "382116",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a710-05.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a710-05.jpg",
+            "chineseName": "五線笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -472,7 +530,8 @@
             "spcific": "",
             "name": "Lutjanus decussatus",
             "id": "382102",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-04.jpg",
+            "chineseName": "交叉笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -480,7 +539,8 @@
             "spcific": "",
             "name": "Lutjanus madras",
             "id": "382112",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0800493.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0800493.jpg",
+            "chineseName": "前鱗笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -488,7 +548,8 @@
             "spcific": "",
             "name": "Lutjanus monostigma",
             "id": "382114",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a710-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a710-04.jpg",
+            "chineseName": "單斑笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -496,7 +557,8 @@
             "spcific": "",
             "name": "Lutjanus kasmira",
             "id": "382110",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a710-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a710-01.jpg",
+            "chineseName": "四線笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -504,7 +566,8 @@
             "spcific": "",
             "name": "Lutjanus ehrenbergii",
             "id": "382104",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F370_Luehr_u3.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F370_Luehr_u3.jpg",
+            "chineseName": "埃氏笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -512,7 +575,8 @@
             "spcific": "",
             "name": "Lutjanus ophuysenii",
             "id": "382115",
-            "imgUrl": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0804838.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0804838.jpg",
+            "chineseName": "奧氏笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -520,7 +584,8 @@
             "spcific": "",
             "name": "Lutjanus bengalensis",
             "id": "382098",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a708-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a708-10.jpg",
+            "chineseName": "孟加拉笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -528,7 +593,8 @@
             "spcific": "",
             "name": "Lutjanus dodecacanthoides",
             "id": "382103",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-05.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-05.jpg",
+            "chineseName": "斜帶笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -536,7 +602,8 @@
             "spcific": "",
             "name": "Pinjalo pinjalo",
             "id": "382129",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a711-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a711-03.jpg",
+            "chineseName": "斜鱗笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -544,7 +611,8 @@
             "spcific": "",
             "name": "Symphorus nematophorus",
             "id": "382143",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a711-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a711-04.jpg",
+            "chineseName": "曳絲笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -552,7 +620,8 @@
             "spcific": "",
             "name": "Lutjanus lunulatus",
             "id": "383636",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F370_Lulun_u0.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F370_Lulun_u0.jpg",
+            "chineseName": "月尾笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -560,7 +629,8 @@
             "spcific": "",
             "name": "Lutjanus lutjanus",
             "id": "382111",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a710-02.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a710-02.jpg",
+            "chineseName": "正笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -568,7 +638,8 @@
             "spcific": "",
             "name": "Lutjanus fulviflamma",
             "id": "382106",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-07.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-07.jpg",
+            "chineseName": "火斑笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -576,7 +647,8 @@
             "spcific": "",
             "name": "Lutjanus johnii",
             "id": "382109",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-10.jpg",
+            "chineseName": "約氏笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -584,7 +656,8 @@
             "spcific": "",
             "name": "Lutjanus vitta",
             "id": "382121",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a710-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a710-10.jpg",
+            "chineseName": "縱帶笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -592,7 +665,8 @@
             "spcific": "",
             "name": "Lutjanus carponotatus",
             "id": "382101",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-03.jpg",
+            "chineseName": "胸斑笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -600,7 +674,8 @@
             "spcific": "",
             "name": "Lutjanus boutton",
             "id": "382100",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-02.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-02.jpg",
+            "chineseName": "藍帶笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -608,7 +683,8 @@
             "spcific": "",
             "name": "Aprion virescens",
             "id": "382087",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a707-07.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a707-07.jpg",
+            "chineseName": "藍短鰭笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -616,7 +692,8 @@
             "spcific": "",
             "name": "Lutjanus erythropterus",
             "id": "382105",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-06.jpg",
+            "chineseName": "赤鰭笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -624,7 +701,8 @@
             "spcific": "",
             "name": "Lutjanus malabaricus",
             "id": "382113",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a710-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a710-03.jpg",
+            "chineseName": "馬拉巴笛鯛"
         },
         {
             "family": "lutjanidae",
@@ -632,7 +710,8 @@
             "spcific": "",
             "name": "Lutjanus fulvus",
             "id": "382107",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-08.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a709-08.jpg",
+            "chineseName": "黃足笛鯛"
         },
         {
             "family": "pomacentridae",
@@ -640,7 +719,8 @@
             "spcific": "",
             "name": "Abudefduf septemfasciatus",
             "id": "382309",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-07.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-07.jpg",
+            "chineseName": "七帶豆娘魚"
         },
         {
             "family": "pomacentridae",
@@ -648,7 +728,8 @@
             "spcific": "",
             "name": "Abudefduf sexfasciatus",
             "id": "382310",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-08.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-08.jpg",
+            "chineseName": "六線豆娘魚"
         },
         {
             "family": "pomacentridae",
@@ -656,7 +737,8 @@
             "spcific": "",
             "name": "Abudefduf lorenzi",
             "id": "382307",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-05.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-05.jpg",
+            "chineseName": "勞倫氏豆娘魚"
         },
         {
             "family": "pomacentridae",
@@ -664,7 +746,8 @@
             "spcific": "",
             "name": "Abudefduf bengalensis",
             "id": "382306",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-04.jpg",
+            "chineseName": "孟加拉豆娘魚"
         },
         {
             "family": "pomacentridae",
@@ -672,7 +755,8 @@
             "spcific": "",
             "name": "Abudefduf vaigiensis",
             "id": "382312",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-10.jpg",
+            "chineseName": "條紋豆娘魚"
         },
         {
             "family": "pomacentridae",
@@ -680,7 +764,8 @@
             "spcific": "",
             "name": "Abudefduf sordidus",
             "id": "382311",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-09.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-09.jpg",
+            "chineseName": "梭地豆娘魚"
         },
         {
             "family": "pomacentridae",
@@ -688,7 +773,8 @@
             "spcific": "",
             "name": "Amblyglyphidodon curacao",
             "id": "382314",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a742-02.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a742-02.jpg",
+            "chineseName": "橘鈍寬刻齒雀鯛"
         },
         {
             "family": "pomacentridae",
@@ -696,7 +782,8 @@
             "spcific": "",
             "name": "Amblyglyphidodon leucogaster",
             "id": "382315",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/ecopic/medium/e389-amb-le-1.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/ecopic/medium/e389-amb-le-1.jpg",
+            "chineseName": "白腹寬刻齒雀鯛"
         },
         {
             "family": "pomacentridae",
@@ -704,7 +791,8 @@
             "spcific": "",
             "name": "Amblyglyphidodon ternatensis",
             "id": "382316",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ano.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ano.jpg",
+            "chineseName": "綠身寬刻齒雀鯛"
         },
         {
             "family": "pomacentridae",
@@ -712,7 +800,8 @@
             "spcific": "",
             "name": "Abudefduf notatus",
             "id": "382308",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a741-06.jpg",
+            "chineseName": "黃尾豆娘魚"
         },
         {
             "family": "pomacentridae",
@@ -720,7 +809,8 @@
             "spcific": "",
             "name": "Amblyglyphidodon aureus",
             "id": "382313",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a742-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a742-01.jpg",
+            "chineseName": "黃背寬刻齒雀鯛"
         },
         {
             "family": "pomacentridae",
@@ -728,7 +818,8 @@
             "spcific": "",
             "name": "Benthodesmus tenuis",
             "id": "383291",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0059948.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0059948.jpg",
+            "chineseName": "叉尾深海帶魚"
         },
         {
             "family": "pomacentridae",
@@ -736,7 +827,8 @@
             "spcific": "",
             "name": "Evoxymetopon poeyi",
             "id": "382661",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/448_001.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/448_001.jpg",
+            "chineseName": "卜氏窄顱帶魚"
         },
         {
             "family": "pomacentridae",
@@ -744,7 +836,8 @@
             "spcific": "",
             "name": "Evoxymetopon taeniatus",
             "id": "382662",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a798-05.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a798-05.jpg",
+            "chineseName": "條狀窄顱帶魚"
         },
         {
             "family": "pomacentridae",
@@ -752,7 +845,8 @@
             "spcific": "",
             "name": "Lepturacanthus savala",
             "id": "383621",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F474_Lesav_u0.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F474_Lesav_u0.jpg",
+            "chineseName": "沙帶魚"
         },
         {
             "family": "pomacentridae",
@@ -760,7 +854,8 @@
             "spcific": "",
             "name": "Tentoriceps cristatus",
             "id": "382663",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F474_Tecri_u0.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F474_Tecri_u0.jpg",
+            "chineseName": "隆頭帶魚"
         },
         {
             "family": "pomacentridae",
@@ -768,7 +863,8 @@
             "spcific": "",
             "name": "Trichiurus brevis",
             "id": "395405",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ano.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ano.jpg",
+            "chineseName": "短帶魚"
         },
         {
             "family": "pomacentridae",
@@ -776,7 +872,8 @@
             "spcific": "",
             "name": "Trichiurus japonicus",
             "id": "383574",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/NMNSF00325.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/NMNSF00325.jpg",
+            "chineseName": "日本帶魚"
         },
         {
             "family": "pomacentridae",
@@ -784,7 +881,8 @@
             "spcific": "",
             "name": "Trichiurus lepturus",
             "id": "382664",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a798-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a798-06.jpg",
+            "chineseName": "白帶魚"
         },
         {
             "family": "pomacentridae",
@@ -792,7 +890,8 @@
             "spcific": "",
             "name": "Trichiurus nanhaiensis",
             "id": "383575",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0800308.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0800308.jpg",
+            "chineseName": "南海帶魚"
         },
         {
             "family": "scorpaenidae",
@@ -800,7 +899,8 @@
             "spcific": "",
             "name": "Scorpaenopsis cirrosa",
             "id": "382881",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a669-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a669-04.jpg",
+            "chineseName": "鬚擬鮋"
         },
         {
             "family": "cichlidae",
@@ -808,7 +908,8 @@
             "spcific": "",
             "name": "Oreochromis mossambicus",
             "id": "381623",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a737-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a737-06.jpg",
+            "chineseName": "莫三比克口孵非鯽"
         },
         {
             "family": "cichlidae",
@@ -816,7 +917,8 @@
             "spcific": "",
             "name": "Oreochromis niloticus",
             "id": "381624",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a737-07.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a737-07.jpg",
+            "chineseName": "尼羅口孵非鯽"
         },
         {
             "family": "exocoetidae",
@@ -824,7 +926,8 @@
             "spcific": "",
             "name": "Cheilopogon abei",
             "id": "380866",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-08.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-08.jpg",
+            "chineseName": "阿氏鬚唇飛魚"
         },
         {
             "family": "exocoetidae",
@@ -832,7 +935,8 @@
             "spcific": "",
             "name": "Cheilopogon agoo",
             "id": "380867",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a652-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a652-10.jpg",
+            "chineseName": "阿戈鬚唇飛魚"
         },
         {
             "family": "exocoetidae",
@@ -840,7 +944,8 @@
             "spcific": "",
             "name": "Cheilopogon arcticeps",
             "id": "380868",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-02.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-02.jpg",
+            "chineseName": "弓頭唇鬚飛魚"
         },
         {
             "family": "exocoetidae",
@@ -848,7 +953,8 @@
             "spcific": "",
             "name": "Cheilopogon atrisignis",
             "id": "380869",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-03.jpg",
+            "chineseName": "紅斑鬚唇飛魚"
         },
         {
             "family": "exocoetidae",
@@ -856,7 +962,8 @@
             "spcific": "",
             "name": "Cheilopogon cyanopterus",
             "id": "380870",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-05.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-05.jpg",
+            "chineseName": "黑鰭鬚唇飛魚"
         },
         {
             "family": "exocoetidae",
@@ -864,7 +971,8 @@
             "spcific": "",
             "name": "Cheilopogon katoptron",
             "id": "383322",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F253_Chkat_u0.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F253_Chkat_u0.jpg",
+            "chineseName": "黃鰭鬚唇飛魚"
         },
         {
             "family": "exocoetidae",
@@ -872,7 +980,8 @@
             "spcific": "",
             "name": "Cheilopogon pinnatibarbatus pinnatibarbatus",
             "id": "383323",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ano.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ano.jpg",
+            "chineseName": "翼髭鬚唇飛魚"
         },
         {
             "family": "exocoetidae",
@@ -880,7 +989,8 @@
             "spcific": "",
             "name": "Cheilopogon spilonotopterus",
             "id": "380871",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-03.jpg",
+            "chineseName": "點背鬚唇飛魚"
         },
         {
             "family": "exocoetidae",
@@ -888,7 +998,8 @@
             "spcific": "",
             "name": "Cheilopogon spilopterus",
             "id": "380872",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-04.jpg",
+            "chineseName": "點鰭鬚唇飛魚"
         },
         {
             "family": "exocoetidae",
@@ -896,7 +1007,8 @@
             "spcific": "",
             "name": "Cheilopogon suttoni",
             "id": "380873",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F253_Chsut_u0.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F253_Chsut_u0.jpg",
+            "chineseName": "蘇氏鬚唇飛魚"
         },
         {
             "family": "exocoetidae",
@@ -904,7 +1016,8 @@
             "spcific": "",
             "name": "Cheilopogon unicolor",
             "id": "380874",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-06.jpg",
+            "chineseName": "白鰭鬚唇飛魚"
         },
         {
             "family": "exocoetidae",
@@ -912,7 +1025,8 @@
             "spcific": "",
             "name": "Cypselurus angusticeps",
             "id": "380875",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-01.jpg",
+            "chineseName": "細頭斑鰭飛魚"
         },
         {
             "family": "exocoetidae",
@@ -920,7 +1034,8 @@
             "spcific": "",
             "name": "Cypselurus naresii",
             "id": "380876",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-10.jpg",
+            "chineseName": "納氏斑鰭飛魚"
         },
         {
             "family": "exocoetidae",
@@ -928,7 +1043,8 @@
             "spcific": "",
             "name": "Cypselurus oligolepis",
             "id": "380877",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-01.jpg",
+            "chineseName": "寡鱗斑鰭飛魚"
         },
         {
             "family": "exocoetidae",
@@ -936,7 +1052,8 @@
             "spcific": "",
             "name": "Cypselurus poecilopterus",
             "id": "380878",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-02.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-02.jpg",
+            "chineseName": "斑鰭飛魚"
         },
         {
             "family": "exocoetidae",
@@ -944,7 +1061,8 @@
             "spcific": "",
             "name": "Cypselurus starksi",
             "id": "383346",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F253_Cysta_u0.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F253_Cysta_u0.jpg",
+            "chineseName": "斯氏斑鰭飛魚"
         },
         {
             "family": "exocoetidae",
@@ -952,7 +1070,8 @@
             "spcific": "",
             "name": "Exocoetus monocirrhus",
             "id": "380879",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-08.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-08.jpg",
+            "chineseName": "單鬚飛魚"
         },
         {
             "family": "exocoetidae",
@@ -960,7 +1079,8 @@
             "spcific": "",
             "name": "Exocoetus volitans",
             "id": "380880",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F253_Exvol_u0.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F253_Exvol_u0.jpg",
+            "chineseName": "大頭飛魚"
         },
         {
             "family": "exocoetidae",
@@ -968,7 +1088,8 @@
             "spcific": "",
             "name": "Hirundichthys oxycephalus",
             "id": "380881",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a654-10.jpg",
+            "chineseName": "尖頭細身飛魚"
         },
         {
             "family": "exocoetidae",
@@ -976,7 +1097,8 @@
             "spcific": "",
             "name": "Hirundichthys rondeletii",
             "id": "380882",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a655-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a655-01.jpg",
+            "chineseName": "隆氏細身飛魚"
         },
         {
             "family": "exocoetidae",
@@ -984,7 +1106,8 @@
             "spcific": "",
             "name": "Hirundichthys speculiger",
             "id": "380883",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F253_Hispe_u0.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F253_Hispe_u0.jpg",
+            "chineseName": "尖鰭細身飛魚"
         },
         {
             "family": "exocoetidae",
@@ -992,7 +1115,8 @@
             "spcific": "",
             "name": "Oxyporhamphus micropterus micropterus",
             "id": "380898",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a655-09.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a655-09.jpg",
+            "chineseName": "白鰭飛鱵"
         },
         {
             "family": "exocoetidae",
@@ -1000,7 +1124,8 @@
             "spcific": "",
             "name": "Parexocoetus brachypterus",
             "id": "380884",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a655-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a655-03.jpg",
+            "chineseName": "短鰭擬飛魚"
         },
         {
             "family": "exocoetidae",
@@ -1008,7 +1133,8 @@
             "spcific": "",
             "name": "Parexocoetus mento",
             "id": "380885",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0058461.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0058461.jpg",
+            "chineseName": "長頜擬飛魚"
         },
         {
             "family": "exocoetidae",
@@ -1016,7 +1142,8 @@
             "spcific": "",
             "name": "Prognichthys brevipinnis",
             "id": "380886",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a653-04.jpg",
+            "chineseName": "短鰭原飛魚"
         },
         {
             "family": "monacanthidae",
@@ -1024,7 +1151,8 @@
             "spcific": "monoceros",
             "name": "Aluterus monoceros",
             "id": "382985",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a812-08.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a812-08.jpg",
+            "chineseName": "單角革單棘魨"
         },
         {
             "family": "scaridae",
@@ -1032,7 +1160,8 @@
             "spcific": "",
             "name": "Bolbometopon muricatum",
             "id": "382434",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/P1010028.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/P1010028.jpg",
+            "chineseName": "隆頭鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1040,7 +1169,8 @@
             "spcific": "",
             "name": "Scarus chameleon",
             "id": "383536",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0061909.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0061909.jpg",
+            "chineseName": "藍臀鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1048,7 +1178,8 @@
             "spcific": "",
             "name": "Scarus dimidiatus",
             "id": "382445",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a769-02.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a769-02.jpg",
+            "chineseName": "新月鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1056,7 +1187,8 @@
             "spcific": "",
             "name": "Scarus festivus",
             "id": "382446",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a769-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a769-03.jpg",
+            "chineseName": "橫紋鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1064,7 +1196,8 @@
             "spcific": "",
             "name": "Scarus forsteni",
             "id": "382447",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a769-05.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a769-05.jpg",
+            "chineseName": "福氏鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1072,7 +1205,8 @@
             "spcific": "",
             "name": "Scarus frenatus",
             "id": "382448",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a769-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a769-06.jpg",
+            "chineseName": "網紋鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1080,7 +1214,8 @@
             "spcific": "",
             "name": "Scarus fuscocaudalis",
             "id": "383538",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F414_Scfus_m3.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F414_Scfus_m3.jpg",
+            "chineseName": "灰尾鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1088,7 +1223,8 @@
             "spcific": "",
             "name": "Scarus ghobban",
             "id": "382449",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a769-08.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a769-08.jpg",
+            "chineseName": "藍點鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1096,7 +1232,8 @@
             "spcific": "",
             "name": "Scarus globiceps",
             "id": "382450",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a770-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a770-01.jpg",
+            "chineseName": "蟲紋鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1104,7 +1241,8 @@
             "spcific": "",
             "name": "Scarus hypselopterus",
             "id": "382451",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F414_Schyp_u1.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/F414_Schyp_u1.jpg",
+            "chineseName": "高鰭鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1112,7 +1250,8 @@
             "spcific": "",
             "name": "Scarus niger",
             "id": "382452",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a770-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a770-03.jpg",
+            "chineseName": "黑鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1120,7 +1259,8 @@
             "spcific": "",
             "name": "Scarus oviceps",
             "id": "382453",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a770-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a770-06.jpg",
+            "chineseName": "姬鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1128,7 +1268,8 @@
             "spcific": "",
             "name": "Scarus ovifrons",
             "id": "382454",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a770-07.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a770-07.jpg",
+            "chineseName": "卵頭鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1136,7 +1277,8 @@
             "spcific": "",
             "name": "Scarus prasiognathos",
             "id": "382455",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a770-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a770-10.jpg",
+            "chineseName": "綠頜鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1144,7 +1286,8 @@
             "spcific": "",
             "name": "Scarus psittacus",
             "id": "382456",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a771-02.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a771-02.jpg",
+            "chineseName": "棕吻鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1152,7 +1295,8 @@
             "spcific": "",
             "name": "Scarus quoyi",
             "id": "383539",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0061912.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0061912.jpg",
+            "chineseName": "瓜氏鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1160,7 +1304,8 @@
             "spcific": "",
             "name": "Scarus rivulatus",
             "id": "382457",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a771-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a771-06.jpg",
+            "chineseName": "雜紋鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1168,7 +1313,8 @@
             "spcific": "",
             "name": "Scarus rubroviolaceus",
             "id": "382458",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a771-08.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a771-08.jpg",
+            "chineseName": "紅紫鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1176,7 +1322,8 @@
             "spcific": "",
             "name": "Scarus schlegeli",
             "id": "382459",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a771-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a771-10.jpg",
+            "chineseName": "史氏鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1184,7 +1331,8 @@
             "spcific": "",
             "name": "Scarus spinus",
             "id": "382460",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0061911.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0061911.jpg",
+            "chineseName": "刺鸚哥魚"
         },
         {
             "family": "scaridae",
@@ -1192,7 +1340,8 @@
             "spcific": "",
             "name": "Scarus xanthopleura",
             "id": "382461",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a768-09.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a768-09.jpg",
+            "chineseName": "黃肋鸚哥魚"
         },
         {
             "family": "molidae",
@@ -1200,7 +1349,8 @@
             "spcific": "",
             "name": "Mola mola",
             "id": "382983",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Mola mola.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/Mola mola.jpg",
+            "chineseName": "翻車魨"
         },
         {
             "family": "rhincodontidae",
@@ -1208,7 +1358,8 @@
             "spcific": "typus",
             "name": "Rhincodon typus",
             "id": "383137",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a614-07.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a614-07.jpg",
+            "chineseName": "鯨鯊"
         },
         {
             "family": "carangidae",
@@ -1216,7 +1367,8 @@
             "spcific": "",
             "name": "Trachinotus anak",
             "id": "381552",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/af344-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/af344-01.jpg",
+            "chineseName": "阿納鯧鰺"
         },
         {
             "family": "carangidae",
@@ -1224,7 +1376,8 @@
             "spcific": "",
             "name": "Trachinotus baillonii",
             "id": "381553",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a704-05.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a704-05.jpg",
+            "chineseName": "斐氏鯧鰺"
         },
         {
             "family": "carangidae",
@@ -1232,7 +1385,8 @@
             "spcific": "",
             "name": "Trachinotus blochii",
             "id": "381554",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a704-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a704-06.jpg",
+            "chineseName": "布氏鯧鰺"
         },
         {
             "family": "coryphaenidae",
@@ -1240,7 +1394,8 @@
             "spcific": "",
             "name": "Coryphaena equiselis",
             "id": "381637",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/NMNSF00937.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/NMNSF00937.jpg",
+            "chineseName": "棘鬼頭刀"
         },
         {
             "family": "coryphaenidae",
@@ -1248,7 +1403,8 @@
             "spcific": "",
             "name": "Coryphaena hippurus",
             "id": "381638",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a705-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a705-01.jpg",
+            "chineseName": "鬼頭刀"
         },
         {
             "family": "carangidae",
@@ -1256,7 +1412,8 @@
             "spcific": "dumerili",
             "name": "Seriola dumerili",
             "id": "381549",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a704-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a704-03.jpg",
+            "chineseName": "杜氏鰤"
         },
         {
             "family": "kyphosidae",
@@ -1264,7 +1421,8 @@
             "spcific": "punctata",
             "name": "Girella punctata",
             "id": "381912",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a725-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a725-04.jpg",
+            "chineseName": "瓜子鱲"
         },
         {
             "family": "chanidae",
@@ -1272,7 +1430,8 @@
             "spcific": "",
             "name": "Chanos chanos",
             "id": "381130",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a637-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a637-06.jpg",
+            "chineseName": "虱目魚"
         },
         {
             "family": "priacanthidae",
@@ -1280,7 +1439,8 @@
             "spcific": "",
             "name": "Cookeolus japonicus",
             "id": "382410",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a690-08.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a690-08.jpg",
+            "chineseName": "日本紅目大眼鯛"
         },
         {
             "family": "priacanthidae",
@@ -1288,7 +1448,8 @@
             "spcific": "",
             "name": "Heteropriacanthus cruentatus",
             "id": "382411",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a690-10.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a690-10.jpg",
+            "chineseName": "血斑異大眼鯛"
         },
         {
             "family": "priacanthidae",
@@ -1296,7 +1457,8 @@
             "spcific": "",
             "name": "Priacanthus fitchi",
             "id": "382412",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0066248.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/ASIZP0066248.jpg",
+            "chineseName": "深水大眼鯛"
         },
         {
             "family": "priacanthidae",
@@ -1304,7 +1466,8 @@
             "spcific": "",
             "name": "Priacanthus hamrur",
             "id": "382413",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a691-01.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a691-01.jpg",
+            "chineseName": "寶石大眼鯛"
         },
         {
             "family": "priacanthidae",
@@ -1312,7 +1475,8 @@
             "spcific": "",
             "name": "Priacanthus macracanthus",
             "id": "382414",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a691-02.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a691-02.jpg",
+            "chineseName": "大棘大眼鯛"
         },
         {
             "family": "priacanthidae",
@@ -1320,7 +1484,8 @@
             "spcific": "",
             "name": "Priacanthus sagittarius",
             "id": "382415",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a690-09.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a690-09.jpg",
+            "chineseName": "高背大眼鯛"
         },
         {
             "family": "priacanthidae",
@@ -1328,7 +1493,8 @@
             "spcific": "",
             "name": "Priacanthus tayenus",
             "id": "382416",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a691-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a691-03.jpg",
+            "chineseName": "曳絲大眼鯛"
         },
         {
             "family": "priacanthidae",
@@ -1336,7 +1502,8 @@
             "spcific": "",
             "name": "Priacanthus zaiserae",
             "id": "382417",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/FRIP20273.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/FRIP20273.jpg",
+            "chineseName": "黃鰭大眼鯛"
         },
         {
             "family": "priacanthidae",
@@ -1344,7 +1511,8 @@
             "spcific": "",
             "name": "Pristigenys meyeri",
             "id": "382418",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a691-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a691-04.jpg",
+            "chineseName": "麥氏大鱗大眼鯛"
         },
         {
             "family": "priacanthidae",
@@ -1352,7 +1520,8 @@
             "spcific": "",
             "name": "Pristigenys niphonia",
             "id": "382419",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a691-06.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a691-06.jpg",
+            "chineseName": "日本大鱗大眼鯛"
         },
         {
             "family": "oplegnathidae",
@@ -1360,7 +1529,8 @@
             "spcific": "",
             "name": "Oplegnathus fasciatus",
             "id": "382221",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a737-03.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a737-03.jpg",
+            "chineseName": "條石鯛"
         },
         {
             "family": "oplegnathidae",
@@ -1368,7 +1538,8 @@
             "spcific": "",
             "name": "Oplegnathus punctatus",
             "id": "382222",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a737-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a737-04.jpg",
+            "chineseName": "斑石鯛"
         },
         {
             "family": "sparidae",
@@ -1376,7 +1547,8 @@
             "spcific": "hypselosomus",
             "name": "Dentex hypselosomus",
             "id": "395481",
-            "imgUrl": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0075198.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/images/ASIZP/150dpi/ASIZP0075198.jpg",
+            "chineseName": "黄背牙鯛"
         },
         {
             "family": "sparidae",
@@ -1384,7 +1556,8 @@
             "spcific": "cardinalis",
             "name": "Evynnis cardinalis",
             "id": "382641",
-            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a716-04.jpg"
+            "imgUrl": "http://fishdb.sinica.edu.tw/chi/spe_picture/dpi300/a716-04.jpg",
+            "chineseName": "紅鋤齒鯛"
         }
     ]
 }

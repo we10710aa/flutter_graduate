@@ -25,6 +25,11 @@ dependencies:
   cupertino_icons: ^0.1.2
   image_cropper: ^1.0.1
   image_picker: ^0.6.0
+  path_provider: ^0.5.0+1
+  cached_network_image: ^0.7.0
+  shared_preferences: ^0.5.2
+  intl: ^0.15.8
+  webview_flutter: ^0.3.6
 
 dev_dependencies:
   flutter_test:
@@ -45,6 +50,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
    - assets/fish.json
+   - assets/peg.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.

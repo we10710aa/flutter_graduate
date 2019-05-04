@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
-import 'dart:convert';
+import 'package:cached_network_image/cached_network_image.dart';
+import 'package:flutter_graduate/fish_json_converter.dart';
+import 'package:webview_flutter/webview_flutter.dart';
 
 class FishCollectionWidget extends StatefulWidget {
   @override
@@ -11,21 +13,36 @@ class FishCollectionWidget extends StatefulWidget {
 
 class _FishCollectionWidgetState extends State<FishCollectionWidget> {
   FishCollection _fishCollection;
-
+  static final BASE_URL = 'http://fishdb.sinica.edu.tw/mobi/species.php?id=';
   Widget _listItemBuilder(BuildContext context, int index) {
     List<Fish> list = _fishCollection.fishs;
     return Padding(
-      padding: const EdgeInsets.only(bottom: 16, left: 8),
+      padding: const EdgeInsets.only(bottom: 8, left: 8),
       child: GestureDetector(
-        onTap: () {},
-        child: Column(
+        onTap: () {
+          Navigator.push(context, MaterialPageRoute(builder:(context)=>Route(BASE_URL + list[index].id)));
+        },
+        child: Row(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
-            Text('id:' + list[index].id),
-            Text('name:' + list[index].name),
-            Center(
-              child: Image.network(list[index].imgUrl),
-            )
+            Container(
+              width: 160,
+              height: 100,
+              child: CachedNetworkImage(
+                imageUrl: list[index].imgUrl,
+                placeholder: (context,url)=>CircularProgressIndicator(),
+                errorWidget: (context,url,error)=>Icon(Icons.error),
+                fit: BoxFit.cover,
+              ),
+            ),
+            SizedBox(width: 8,),
+            Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: <Widget>[
+                Text('中文名稱:' + list[index].chineseName),
+                Text('學名:' + list[index].name),
+              ],
+            ),
           ],
         ),
       ),
@@ -59,72 +76,19 @@ class _FishCollectionWidgetState extends State<FishCollectionWidget> {
   }
 }
 
-// To parse this JSON data, do
-//
-//     final fishCollection = fishCollectionFromJson(jsonString);
+class Route extends StatelessWidget{
+  String _url;
+  Route(String url){
+    this._url = url;
+  }
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        body: Padding(
+          padding: const EdgeInsets.only(top:24.0),
+          child: WebView(initialUrl:_url),
+        )
+    );
+  }
 
-FishCollection fishCollectionFromJson(String str) =>
-    FishCollection.fromJson(json.decode(str));
-
-String fishCollectionToJson(FishCollection data) => json.encode(data.toJson());
-
-class FishCollection {
-  String name;
-  String format;
-  List<Fish> fishs;
-
-  FishCollection({
-    this.name,
-    this.format,
-    this.fishs,
-  });
-
-  factory FishCollection.fromJson(Map<String, dynamic> json) =>
-      new FishCollection(
-        name: json["name"],
-        format: json["format"],
-        fishs: new List<Fish>.from(json["fishs"].map((x) => Fish.fromJson(x))),
-      );
-
-  Map<String, dynamic> toJson() => {
-        "name": name,
-        "format": format,
-        "fishs": new List<dynamic>.from(fishs.map((x) => x.toJson())),
-      };
-}
-
-class Fish {
-  String family;
-  String genus;
-  String spcific;
-  String name;
-  String id;
-  String imgUrl;
-
-  Fish({
-    this.family,
-    this.genus,
-    this.spcific,
-    this.name,
-    this.id,
-    this.imgUrl,
-  });
-
-  factory Fish.fromJson(Map<String, dynamic> json) => new Fish(
-        family: json["family"],
-        genus: json["genus"],
-        spcific: json["spcific"],
-        name: json["name"],
-        id: json["id"],
-        imgUrl: json["imgUrl"],
-      );
-
-  Map<String, dynamic> toJson() => {
-        "family": family,
-        "genus": genus,
-        "spcific": spcific,
-        "name": name,
-        "id": id,
-        "imgUrl": imgUrl,
-      };
 }
