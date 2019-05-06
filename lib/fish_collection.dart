@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter_graduate/fish_json_converter.dart';
+import 'package:flutter_graduate/web_page.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 class FishCollectionWidget extends StatefulWidget {
@@ -20,7 +21,7 @@ class _FishCollectionWidgetState extends State<FishCollectionWidget> {
       padding: const EdgeInsets.only(bottom: 8, left: 8),
       child: GestureDetector(
         onTap: () {
-          Navigator.push(context, MaterialPageRoute(builder:(context)=>Route(BASE_URL + list[index].id)));
+          Navigator.push(context, MaterialPageRoute(builder:(context)=>WebViewExample()));
         },
         child: Row(
           crossAxisAlignment: CrossAxisAlignment.start,
@@ -74,21 +75,4 @@ class _FishCollectionWidgetState extends State<FishCollectionWidget> {
       },
     );
   }
-}
-
-class Route extends StatelessWidget{
-  String _url;
-  Route(String url){
-    this._url = url;
-  }
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-        body: Padding(
-          padding: const EdgeInsets.only(top:24.0),
-          child: WebView(initialUrl:_url),
-        )
-    );
-  }
-
 }
