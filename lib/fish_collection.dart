@@ -20,7 +20,7 @@ class _FishCollectionWidgetState extends State<FishCollectionWidget> {
   Widget _listItemBuilder(BuildContext context, int index) {
     List<Fish> list = _fishCollection.fishs;
     return Padding(
-      padding: const EdgeInsets.only(bottom: 8, left: 8),
+      padding: const EdgeInsets.only(bottom: 8,left: 8,right: 8),
       child: GestureDetector(
         onTap: () async{
           //This is a workaround because flutter webview doesn't seen to work with http
@@ -34,32 +34,49 @@ class _FishCollectionWidgetState extends State<FishCollectionWidget> {
             }
           }
         },
-        child: Row(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: <Widget>[
-            CachedNetworkImage(
-              imageUrl: list[index].imgUrl,
-              placeholder: (context, url){
-                return Container(
-                  width: 160,
-                  height: 100,
-                  child:Center(child: CircularProgressIndicator()));},
-              errorWidget: (context, url, error) => Icon(Icons.error),
-              fit: BoxFit.cover,
-              width: 160,
-              height: 100,
-            ),
-            SizedBox(
-              width: 8,
-            ),
-            Column(
+        child: Card(
+          elevation: 8,
+          child: Container(
+            decoration: BoxDecoration(color: Color.fromRGBO(58, 66, 86,.9)),
+            child: Row(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: <Widget>[
-                Text('中文名稱:' + list[index].chineseName),
-                Text('學名:' + list[index].name),
+                CachedNetworkImage(
+                  imageUrl: list[index].imgUrl,
+                  placeholder: (context, url){
+                    return Container(
+                      width: 180,
+                      height: 120,
+                      child:Center(child: CircularProgressIndicator()));},
+                  errorWidget: (context, url, error) => Icon(Icons.error),
+                  fit: BoxFit.fill,
+                  width: 180,
+                  height: 120,
+                ),
+                SizedBox(
+                  width: 8,
+                ),
+                Expanded(
+                  flex: 1,
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: <Widget>[
+                      Text(
+                        '中文名稱:' + list[index].chineseName,
+                        style: TextStyle(color: Colors.white,fontSize: 20),
+                        overflow: TextOverflow.ellipsis,
+                      ),
+                      Text(
+                        '學名:' + list[index].name,
+                        style: TextStyle(color: Colors.white),
+                        overflow: TextOverflow.clip,
+                      ),
+                    ],
+                  ),
+                ),
               ],
             ),
-          ],
+          ),
         ),
       ),
     );
